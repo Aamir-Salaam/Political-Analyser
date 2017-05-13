@@ -14,6 +14,7 @@ Python Versions: Python 2.7 (with IDLE), Python 3.5 (with IDLE).
 Download the required python versions from: https://www.python.org/downloads/
 Install by running the installer.
 Usually, these python versions come with their repective IDLEs already present in the package.
+
 **Note:
 IDLE provides both script editing and script execution facilities, hence no explicit editors and frameworks are required.
 To run a script in IDLE, right click on the script and select the option ‘Edit with IDLE’ for respective python version.
